@@ -48,6 +48,8 @@ export PATH
 ### verify maven installation
 
 $ mvn -version
+
+
 Apache Maven 3.6.3 (cecedd343002696d0abb50b32b541b8a6ba2883f)
 Maven home: /opt/apache-maven-3.6.3
 Java version: 13.0.1, vendor: Oracle Corporation, runtime: /opt/jdk-13.0.1
